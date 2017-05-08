@@ -11,7 +11,7 @@ namespace ProductReviews.Migrations
     {
         public Configuration()
         {
-            AutomaticMigrationsEnabled = false;
+            AutomaticMigrationsEnabled = true;
         }
 
         protected override void Seed(ProductReviews.Models.ProductReviewsContext context)
