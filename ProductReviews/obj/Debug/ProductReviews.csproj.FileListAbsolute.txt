@@ -37,4 +37,3 @@ C:\Users\msenga\Documents\Visual Studio 2015\Projects\ProductReviews\ProductRevi
 C:\Users\msenga\Documents\Visual Studio 2015\Projects\ProductReviews\ProductReviews\obj\Debug\ProductReviews.pdb
 C:\Users\msenga\Documents\Visual Studio 2015\Projects\ProductReviews\ProductReviews\bin\Swashbuckle.Core.dll
 C:\Users\msenga\Documents\Visual Studio 2015\Projects\ProductReviews\ProductReviews\bin\WebActivatorEx.dll
-C:\Users\msenga\Documents\Visual Studio 2015\Projects\ProductReviews\ProductReviews\obj\Debug\ProductReviews.csprojResolveAssemblyReference.cache
