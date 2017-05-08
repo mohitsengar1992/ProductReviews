@@ -10,6 +10,7 @@
     <WebStackScaffolding_DbContextTypeFullName>ProductReviews.Models.ProductReviewsContext</WebStackScaffolding_DbContextTypeFullName>
     <WebStackScaffolding_IsAsyncSelected>False</WebStackScaffolding_IsAsyncSelected>
     <UseIISExpress>true</UseIISExpress>
+    <NameOfLastUsedPublishProfile>ProductReviews20170508010353 - Web Deploy</NameOfLastUsedPublishProfile>
   </PropertyGroup>
   <ProjectExtensions>
     <VisualStudio>
